@@ -1,2 +1,6 @@
 This is a new file 
+
+
 Just to check git status
+
+I am just adding another line

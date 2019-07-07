@@ -1,2 +1,5 @@
 Just a checkFile for it
+
 to run on the server
+
+Checking to make sure if gitignore works or not

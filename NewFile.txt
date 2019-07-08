@@ -1,7 +1,7 @@
 This is a new file 
 
 commit1
-
+commit2
 Just to check git status
 
 I am just adding another line
